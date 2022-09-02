@@ -23,8 +23,9 @@ override.tf.json
 *_override.tf.json
 *.out
 *.backup
-*.key
-*.key.
+*key
+*.pub
+azure-key
 
 
 # Include override files you do wish to add to version control using negated pattern
