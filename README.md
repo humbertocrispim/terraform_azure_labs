@@ -1,4 +1,4 @@
-# terraform_azure_labs
-Creates Vms Azure Terraform
+# Criaçaão de recursos na azure via terraform
 
-## 1 test
+
+## C
