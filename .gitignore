@@ -16,7 +16,7 @@
 # example.tfvars
 
 # Ignore override files as they are usually used to override resources locally and so
-# are not checked in
+# are not checked i
 
 override.tf
 override.tf.json
